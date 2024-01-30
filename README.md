@@ -46,7 +46,7 @@
 <h1 align="center">Welcome to My Profile 😍</h1>
 <div align="center">
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-<a href="https://git.io/typing-svg" padding-top="100px"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Deepak+Yadav....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" padding-top="100px"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Shwetank+Kumar....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
